@@ -2,7 +2,8 @@
 
 A chatroom built in C++ using the concepts of socket programming and multi-threading. It supports chatting among multiple clients.
 
-![](/screenshot.png)
+![ss_ch](https://github.com/ananya8606/Chatting-Application/assets/52853286/8fc53b0e-a62a-4e25-bb2e-4ce34427b7b0)
+
 ## How to run
 
 1. Clone this repository
